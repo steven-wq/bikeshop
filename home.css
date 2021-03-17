@@ -1,0 +1,38 @@
+header{
+    height:10vh;
+    color: white;
+    background-color: black;
+}
+
+#logo{
+    height: 50px;
+    width:50px;
+}
+#bike-background{
+    object-fit: cover;
+    height: 20vh;
+    width: 100%;
+}
+
+.box{
+    border: green double 1px;
+    height: 250px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pic-shape{
+    
+    height: 125px;
+}
+.prix-lien{
+    Height: 30px;
+    width:50%;
+    display: flex;
+    justify-content: space-around;
+}
+.Buy{
+    border: blue 1px solid;
+    border-radius: 10%;
+}
